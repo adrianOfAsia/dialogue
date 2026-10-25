@@ -1,5 +1,5 @@
 ---
-author: "25920"
+author: "ofAsia"
 pubDatetime: 2024-08-28T13:00:20Z
 title: Thoughts In Text 
 postSlug: life-and-philosophy
