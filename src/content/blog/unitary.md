@@ -1,5 +1,5 @@
 ---
-author: "25920"
+author: "ofAsia"
 pubDatetime: 2023-10-19T16:58:53Z
 title: Unitary Orthogonal Orthonormal
 postSlug: orthogonal-unitary-orthonormal
