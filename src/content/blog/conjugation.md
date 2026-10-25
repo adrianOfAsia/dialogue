@@ -1,5 +1,5 @@
 ---
-author: "25920"
+author: "ofAsia"
 pubDatetime: 2023-10-20T17:22:00Z
 title: Conjugate in different forms
 postSlug: complex-quanternion-hermitian-conjugate
