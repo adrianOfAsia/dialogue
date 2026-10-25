@@ -1,5 +1,5 @@
 ---
-author: "25920"
+author: "ofAsia"
 pubDatetime: 2024-01-21T16:00:00Z
 title: Graph Nodes On Hermitian Matrix
 postSlug: graph-hermitian
