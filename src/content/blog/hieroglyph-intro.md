@@ -1,5 +1,5 @@
 ---
-author: "25920"
+author: "OfAsia"
 pubDatetime: 2023-11-30T15:57:52.737Z
 title: Intro to Egytpian Hieroglyph
 postSlug: egyptian-hieroglyph-intro
